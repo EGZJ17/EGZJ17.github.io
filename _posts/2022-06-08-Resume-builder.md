@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bob the Builder Project"
-categories: blog assignment
-permalink: posts/blog-post-bobthebuilder
+#categories: blog assignment
+#permalink: posts/blog-post-bobthebuilder
 author: Daniel Huang, Emily Jenks, Pei Xi Kwok, Vida Rusli
 ---
 
