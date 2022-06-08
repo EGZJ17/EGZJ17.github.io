@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bob the Builder Project"
-#categories: blog assignment
-#permalink: posts/blog-post-bobthebuilder
+categories: blog assignment
+permalink: posts/blog-post-bobthebuilder
 author: Daniel Huang, Emily Jenks, Pei Xi Kwok, Vida Rusli
 ---
 
@@ -303,7 +303,7 @@ HTML was used in creating the formatting for the website including the following
   </div>
 </div>
 </div>
-{% endblock %}{% endraw %}
+{% endraw %}
 ```  
 > CSS
 - style.css: creates the style formatting for about.html, base.html, form.html, indeed_test.html, main_better.html
