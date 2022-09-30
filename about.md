@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Emily Jenks. I am a fourth year math major at UCLA taking PIC 16B.
+Hello I am Emily Jenks. I am a recent graduate from University of California, Los Angeles with a Bachelor of Science in Mathematics and a Specialization in Computing.
 
 ## More information
 
