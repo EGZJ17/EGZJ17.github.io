@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example post
+title: Histogram of Synthetic Data
 ---
 
 In this post, I'll show how to create a helpful histogram of some synthetic data. 
