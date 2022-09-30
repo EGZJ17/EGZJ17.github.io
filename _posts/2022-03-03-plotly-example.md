@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plotly Example
+title: Post Interactive Visualizations using Plotly
 ---
 
 Fortunately, it's pretty easy to embed interactive HTML figures produced via Plotly on your blog. Just use  `plotly.io.write_html()` to save your figure. Then, copy the resulting HTML file to the `_includes` directory of your blog. Finally, place the code  
